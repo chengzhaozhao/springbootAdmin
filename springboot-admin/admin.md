@@ -23,3 +23,4 @@
             SpringApplication.run(AdminSpringBoot.class);
         }
     }
+    
